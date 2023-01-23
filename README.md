@@ -2,7 +2,15 @@
 
 ## Overview
 
-Sample Node.js application which use Express with Basic Auth Connect.
+Sample [Node.js](https://nodejs.org/) application which use [Express](https://www.npmjs.com/package/express) with [Basic Auth Connect](https://www.npmjs.com/package/basic-auth-connect).
+
+
+## How to use Basic Auth Connect
+
+- シンプルな方法
+
+```
+```
 
 
 ## Licensing
